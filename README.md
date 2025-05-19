@@ -11,6 +11,7 @@ A simple full-stack travel blog site built using:
 
 ### Backend:
 1. Create a `.env` file in the `backend/` folder:
+```bash
 cd backend
 npm install
 node server.js
