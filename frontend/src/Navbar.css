@@ -1,0 +1,10 @@
+.navbar-brand{
+    color: black;
+}
+
+#navbarNav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+}
